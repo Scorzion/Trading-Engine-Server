@@ -30,9 +30,13 @@ A modular trading engine server built with C# (.NET Core). This project demonstr
 ## Project Structure
 
 ├── Program.cs # Entry point and host builder setup
+
 ├── Services/ # Core background and trading services
+
 ├── Interfaces/ # Service abstractions for extensibility
+
 ├── appsettings.json # Configuration file for server settings
+
 └── README.md # Project documentation
 
 ## How It Works
